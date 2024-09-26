@@ -1,0 +1,18 @@
+PASS
+storyboard
+folder structure
+sitemap
+styles and templates
+interactive features
+assets
+source table
+test plan
+
+MERIT
+describe purpose and features
+proposed solution, test plan, list assets
+alternative ideas
+interactive components
+aesthetic solutions
+
+DISTINCTION
